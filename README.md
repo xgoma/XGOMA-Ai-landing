@@ -1,2 +1,2 @@
-# XGOMA-Ai-landing
+# XGOMA
 Earth Edge "Together"
